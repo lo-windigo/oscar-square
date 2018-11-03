@@ -1,2 +1,4 @@
+build/
 dist/
+oscar_square.egg-info/
 *.swp
