@@ -1,7 +1,8 @@
 # Square Payments integration for Oscar Commerce
 
-A simple way to integrate Square Payments into an Oscar Commerce website, to
-allow taking credit card payments via the Square API.
+A simple way to integrate [Square Payments](https://squareup.com/) into an
+[Oscar Commerce](http://oscarcommerce.com/) website, to allow taking credit
+card payments via the Square API.
 
 ## Installation
 
@@ -11,6 +12,11 @@ your `requirements.txt`.
 ## Usage
 
 TODO
+
+## License
+
+This code ©Jacob Hume 2018, and licensed under the LGPL v3. See LICENSE.md for
+more information.
 
 ## Release Notes
 
