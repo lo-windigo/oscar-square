@@ -15,11 +15,13 @@ TODO
 
 ## License
 
-This code ©Jacob Hume 2018, and licensed under the LGPL v3. See LICENSE.md for
-more information.
+This code is ©Jacob Hume 2018, and licensed under the LGPL v3. See LICENSE.md
+for more information.
 
 ## Release Notes
 
-* 0.0.1: First release, which is not quite ready for production use yet. In
+* **0.0.2:** All code has been moved to the repository, and modified to work as
+  a standalone package: needs to be tested.
+* **0.0.1:** First release, which is not quite ready for production use yet. In
   fact, none of the code is present yet.
 
