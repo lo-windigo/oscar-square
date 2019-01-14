@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="oscar-square",
-    version="0.0.1",
+    version="0.0.2",
     author="Jacob Hume",
     author_email="jacob@fragdev.com",
     description="Square payment integration for Oscar Commerce",
