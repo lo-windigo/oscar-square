@@ -5,11 +5,11 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="oscar-square",
-    version="0.0.2",
+    version="0.0.3",
     author="Jacob Hume",
     author_email="jacob@fragdev.com",
     description="Square payment integration for Oscar Commerce",
-    install_requires=['squareconnect==2.3.*'],
+    install_requires=['squareconnect==2.*'],
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://fragdev.com/projects/square-payment-oscar-commerce",
