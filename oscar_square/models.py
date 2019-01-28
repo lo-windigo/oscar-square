@@ -21,6 +21,7 @@ class SquareSettings(models.Model):
             null=True)
     # Prevent more than one setting object by associating it with the site
     site = models.ForeignKey(Site,
+            on_delete=CASCADE,
             blank=True,
             null=True)
 
